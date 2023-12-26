@@ -1,4 +1,4 @@
-## Android App Documentation in 20 Lines
+## Android App Documentation 
 
 1. **Introduction:** This Android app, developed in Android Studio using Java and XML, collects user input (mobile number, password) and stores it in a MySQL database running on XAMPP.
 
